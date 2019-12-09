@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>5.jpg</filename>
+	<path>C:\logo\data\images\5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>34</ymin>
+			<xmax>117</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>
