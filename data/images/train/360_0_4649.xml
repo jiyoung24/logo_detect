@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imageGenerate</folder>
+	<filename>360_0_4649.jpg</filename>
+	<path>C:\logo\imageGenerate\360_0_4649.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samsung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>52</ymin>
+			<xmax>105</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>
