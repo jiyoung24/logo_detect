@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imageGenerate</folder>
+	<filename>80_0_2229.jpg</filename>
+	<path>C:\logo\imageGenerate\80_0_2229.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>39</ymin>
+			<xmax>144</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>
