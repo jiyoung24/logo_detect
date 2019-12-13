@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imageGenerate</folder>
+	<filename>220_0_6762.jpg</filename>
+	<path>C:\logo\imageGenerate\220_0_6762.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>29</ymin>
+			<xmax>118</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>
